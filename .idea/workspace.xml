@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49b16e63-840f-49cb-9253-84a2f42a344a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/keju/hash.go" beforeDir="false" afterPath="$PROJECT_DIR$/keju/hash.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WQIWcdJMo7YKx6wdg0AacCt2Iv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\风痕\go\src\haimanKejuCrawler\listQuestions" />
+      <recent name="C:\Users\风痕\go\src\haimanKejuCrawler\keju" />
+      <recent name="C:\Users\风痕\go\src\haimanKejuCrawler\hash" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.go test haimanKejuCrawler">
+    <configuration name="go build haimanKejuCrawler" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="KejuCrawler" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="haimanKejuCrawler" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build haimanKejuCrawler/listQuestions" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="KejuCrawler" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="haimanKejuCrawler/listQuestions" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestQAPairRepository_Persist in haimanKejuCrawler/keju" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="KejuCrawler" />
+      <working_directory value="$PROJECT_DIR$/keju" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="haimanKejuCrawler/keju" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestQAPairRepository_Persist$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test haimanKejuCrawler" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="KejuCrawler" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="haimanKejuCrawler" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build haimanKejuCrawler" />
+      <item itemvalue="Go Build.go build haimanKejuCrawler/listQuestions" />
+      <item itemvalue="Go Test.TestQAPairRepository_Persist in haimanKejuCrawler/keju" />
+      <item itemvalue="Go Test.go test haimanKejuCrawler" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.go test haimanKejuCrawler" />
+        <item itemvalue="Go Build.go build haimanKejuCrawler" />
+        <item itemvalue="Go Test.TestQAPairRepository_Persist in haimanKejuCrawler/keju" />
+        <item itemvalue="Go Build.go build haimanKejuCrawler/listQuestions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="498" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579077119952">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1579077119952" />
+    <state width="1478" height="167" key="GridCell.Tab.0.bottom" timestamp="1579082849286">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="167" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579082849286" />
+    <state width="1478" height="167" key="GridCell.Tab.0.center" timestamp="1579082849286">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="167" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579082849286" />
+    <state width="1478" height="167" key="GridCell.Tab.0.left" timestamp="1579082849286">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="167" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579082849286" />
+    <state width="1478" height="167" key="GridCell.Tab.0.right" timestamp="1579082849286">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="167" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579082849286" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579076088029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1579076088029" />
+  </component>
+</project>
